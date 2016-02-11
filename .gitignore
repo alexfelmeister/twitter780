@@ -1,0 +1,5 @@
+twittercreds.*
+.DS_Store
+*.pyc
+*.json
+*.csv
